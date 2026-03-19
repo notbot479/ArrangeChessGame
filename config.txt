@@ -1,0 +1,6 @@
+screen_width: 700
+screen_height: 700
+tiles_in_row: 8
+tiles_in_column: 8
+figure_mode: free
+show_ban_fields: True
